@@ -8,7 +8,7 @@ Live link of this website : https://harshit-paneri.github.io/Notes-Web/
 __________________________________________________
 ## NEW
 <img src="/ImagesOfApplication/new.png">
-__________________________________________________
+________________________________________________
 ## ADD 1
 <img src="/ImagesOfApplication/add1.png">
 __________________________________________________
