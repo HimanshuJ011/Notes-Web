@@ -1,4 +1,4 @@
-console.log("Welcome to tech notes");
+//console.log("Welcome to tech notes");
 showNotes();
 
 
