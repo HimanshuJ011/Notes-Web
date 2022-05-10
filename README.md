@@ -8,18 +8,18 @@ Live link of this website : https://harshit-paneri.github.io/Notes-Web/
 __________________________________________________
 ## NEW
 <img src="/ImagesOfApplication/new.png">
-__________________________________________________
+</br>
 ## ADD 1
 <img src="/ImagesOfApplication/add1.png">
-__________________________________________________
+</br>
 ## View
 <img src="/ImagesOfApplication/view1.png">
-__________________________________________________
+</br>
 ## ADD 2
 <img src="/ImagesOfApplication/add2.png">
-__________________________________________________
+</br>
 ## Search
 <img src="/ImagesOfApplication/search.png">
-__________________________________________________
+</br>
 ## Delete
 <img src="/ImagesOfApplication/delete.png">
