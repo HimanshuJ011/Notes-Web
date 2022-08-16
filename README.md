@@ -9,17 +9,17 @@ __________________________________________________
 ## NEW
 <img src="/ImagesOfApplication/new.png">
 </br>
-## ADD 1
+• ADD 1
 <img src="/ImagesOfApplication/add1.png">
 </br>
-## View
+• View
 <img src="/ImagesOfApplication/view1.png">
 </br>
-## ADD 2
+• ADD 2
 <img src="/ImagesOfApplication/add2.png">
 </br>
-## Search
+• Search
 <img src="/ImagesOfApplication/search.png">
 </br>
-## Delete
+• Delete
 <img src="/ImagesOfApplication/delete.png">
